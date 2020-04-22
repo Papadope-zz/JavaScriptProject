@@ -1,0 +1,133 @@
+#Property_Type {
+    color: #c1c5c9;
+    background-color: transparent;
+    border: none;
+}
+
+#first_container {
+    background-color: #37454D;
+    width: 100%;
+}
+
+#search_button {
+    background-color: #007FAD;
+    border-color: #007FAD;
+    color: white;
+    ;
+}
+
+.input-group {
+    padding: 1%;
+}
+
+#calendar {
+    width: 100%;
+    text-align: right;
+}
+
+#calendar1 {
+    width: 100%;
+    text-align: right;
+}
+
+#rating {
+    font-weight: bolder;
+    background-color: #316300;
+    color: white;
+    width: 7%;
+    text-align: center;
+}
+
+.vr {
+    width: 2px;
+    background-color: #f1f1f2;
+    position: absolute;
+    top: 8%;
+    bottom: 8%;
+    left: 150px;
+}
+
+#button_hotel {
+    width: 100%;
+    margin-top: 0%;
+    text-align: center;
+    font-weight: bold;
+    background-color: #428500;
+    vertical-align: middle;
+}
+
+option {
+    color: black !important;
+}
+
+select {
+    background-color: transparent !important;
+    border: none !important;
+    color: white !important;
+}
+
+select::after {
+    color: white !important;
+}
+
+input {
+    padding: 1%;
+    font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    border-radius: 0 !important;
+}
+
+.box {
+    width: 250px;
+    border: 5px solid black;
+}
+
+.box.large {
+    height: 300px;
+}
+
+.box.small {
+    height: 100px;
+}
+
+.seperator {
+    height: 40%;
+    width: 1px;
+    background: white;
+    margin: 0 auto;
+    top: 65;
+    bottom: 0;
+    position: absolute;
+    left: 50%;
+}
+
+.default-card {
+    text-align: right;
+}
+
+.lala .btn {
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: black;
+    border-radius: 1%;
+}
+
+.lala .btn:hover {
+    background-color: grey;
+}
+
+#sort_by_select {
+    color: black !important;
+}
